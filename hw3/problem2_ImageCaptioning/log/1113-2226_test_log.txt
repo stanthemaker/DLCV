@@ -1,0 +1,22 @@
+[ 001/099 ] loss = 9.8093 | CIDEr score: 0.0000 | CLIP score: 0.4564
+[ 001/099 ] loss = 9.7000 | CIDEr score: 0.0096 | CLIP score: 0.4637
+[ 001/099 ] loss = 9.6782 | CIDEr score: 0.0109 | CLIP score: 0.4595
+[ 001/099 ] loss = 9.6726 | CIDEr score: 0.0078 | CLIP score: 0.4534
+[ 001/099 ] loss = 9.6572 | CIDEr score: 0.0068 | CLIP score: 0.4625
+[ 001/099 ] loss = 9.6813 | CIDEr score: 0.0073 | CLIP score: 0.4603
+[ 001/099 ] loss = 9.6658 | CIDEr score: 0.0068 | CLIP score: 0.4662
+[ saving model at epoch 0 with CLIP score: 0.4620 | CIDEr score 0.0093 ]
+[ 002/099 ] loss = 9.6528 | CIDEr score: 0.0055 | CLIP score: 0.4675
+[ 002/099 ] loss = 9.6831 | CIDEr score: 0.0110 | CLIP score: 0.4636
+[ 002/099 ] loss = 9.6984 | CIDEr score: 0.0063 | CLIP score: 0.4678
+[ 002/099 ] loss = 9.6969 | CIDEr score: 0.0112 | CLIP score: 0.4787
+[ 002/099 ] loss = 9.6759 | CIDEr score: 0.0079 | CLIP score: 0.4546
+[ 002/099 ] loss = 9.6714 | CIDEr score: 0.0066 | CLIP score: 0.4647
+[ 002/099 ] loss = 9.6618 | CIDEr score: 0.0070 | CLIP score: 0.4612
+[ 003/099 ] loss = 9.6662 | CIDEr score: 0.0079 | CLIP score: 0.4505
+[ 003/099 ] loss = 9.6802 | CIDEr score: 0.0090 | CLIP score: 0.4607
+[ 003/099 ] loss = 9.6672 | CIDEr score: 0.0066 | CLIP score: 0.4768
+[ 003/099 ] loss = 9.6901 | CIDEr score: 0.0117 | CLIP score: 0.4509
+[ 003/099 ] loss = 9.6868 | CIDEr score: 0.0087 | CLIP score: 0.4623
+[ 003/099 ] loss = 9.7032 | CIDEr score: 0.0104 | CLIP score: 0.4564
+[ 003/099 ] loss = 9.6919 | CIDEr score: 0.0063 | CLIP score: 0.4666

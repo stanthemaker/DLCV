@@ -1,0 +1,2 @@
+[ Train test | 001/500 ] err:0.83568
+[ Train test | 001/500 ] err:0.83568

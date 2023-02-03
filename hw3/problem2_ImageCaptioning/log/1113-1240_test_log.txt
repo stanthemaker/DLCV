@@ -1,0 +1,3 @@
+[ 001/099 ] loss = 9.9687 | CIDEr score: 0.0000 | CLIP score: 0.4449
+[ 001/099 ] loss = 5.8447 | CIDEr score: 0.0142 | CLIP score: 0.4821
+[ 001/099 ] loss = 4.8657 | CIDEr score: 0.1047 | CLIP score: 0.4739

@@ -1,0 +1,40 @@
+[ Train | 001/200 ] loss = 6.6948, best_acc = 0.019
+[ Valid | 001/200 ] loss = 6.2781, acc = 0.05134, best_acc = 0.000
+[ Train | 002/200 ] loss = 5.7106, best_acc = 0.064
+[ Valid | 002/200 ] loss = 5.8314, acc = 0.04688, best_acc = 0.051
+[ Train | 003/200 ] loss = 4.9070, best_acc = 0.068
+[ Valid | 003/200 ] loss = 4.7216, acc = 0.06453, best_acc = 0.051
+[ Train | 004/200 ] loss = 4.4978, best_acc = 0.097
+[ Valid | 004/200 ] loss = 4.5322, acc = 0.09131, best_acc = 0.065
+[ Train | 005/200 ] loss = 4.3284, best_acc = 0.134
+[ Valid | 005/200 ] loss = 4.4672, acc = 0.09375, best_acc = 0.091
+[ Train | 006/200 ] loss = 4.1594, best_acc = 0.177
+[ Valid | 006/200 ] loss = 4.2963, acc = 0.12703, best_acc = 0.094
+[ Train | 007/200 ] loss = 3.9774, best_acc = 0.199
+[ Valid | 007/200 ] loss = 4.2816, acc = 0.15321, best_acc = 0.127
+[ Train | 008/200 ] loss = 3.8197, best_acc = 0.242
+[ Valid | 008/200 ] loss = 4.1394, acc = 0.16437, best_acc = 0.153
+[ Train | 009/200 ] loss = 3.6875, best_acc = 0.272
+[ Valid | 009/200 ] loss = 4.1022, acc = 0.16700, best_acc = 0.164
+[ Train | 010/200 ] loss = 3.5597, best_acc = 0.313
+[ Valid | 010/200 ] loss = 4.0619, acc = 0.18669, best_acc = 0.167
+[ Train | 011/200 ] loss = 3.4226, best_acc = 0.341
+[ Valid | 011/200 ] loss = 4.0499, acc = 0.19907, best_acc = 0.187
+[ Train | 012/200 ] loss = 3.3008, best_acc = 0.390
+[ Valid | 012/200 ] loss = 4.1575, acc = 0.17370, best_acc = 0.199
+[ Train | 013/200 ] loss = 3.1898, best_acc = 0.412
+[ Valid | 013/200 ] loss = 4.1074, acc = 0.21104, best_acc = 0.199
+[ Train | 014/200 ] loss = 3.0735, best_acc = 0.441
+[ Valid | 014/200 ] loss = 4.0031, acc = 0.19338, best_acc = 0.211
+[ Train | 015/200 ] loss = 2.9543, best_acc = 0.489
+[ Valid | 015/200 ] loss = 4.0765, acc = 0.23539, best_acc = 0.211
+[ Train | 016/200 ] loss = 2.7795, best_acc = 0.538
+[ Valid | 016/200 ] loss = 4.0136, acc = 0.21530, best_acc = 0.235
+[ Train | 017/200 ] loss = 2.6499, best_acc = 0.592
+[ Valid | 017/200 ] loss = 4.1191, acc = 0.18202, best_acc = 0.235
+[ Train | 018/200 ] loss = 2.5066, best_acc = 0.634
+[ Valid | 018/200 ] loss = 4.0189, acc = 0.21124, best_acc = 0.235
+[ Train | 019/200 ] loss = 2.3692, best_acc = 0.681
+[ Valid | 019/200 ] loss = 4.2499, acc = 0.21550, best_acc = 0.235
+[ Train | 020/200 ] loss = 2.2724, best_acc = 0.717
+[ Valid | 020/200 ] loss = 4.1790, acc = 0.20860, best_acc = 0.235

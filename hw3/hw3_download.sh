@@ -1,0 +1,1 @@
+wget -O ./pa2.ckpt "https://www.dropbox.com/s/ogifqrzsnj5h5sv/1116-1832_beam_k_5.pth?dl=1"

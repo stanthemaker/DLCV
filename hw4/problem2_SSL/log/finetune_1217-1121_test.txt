@@ -1,0 +1,296 @@
+[ Train | 001/200 ] loss = 4.1720, best_acc = 0.020
+[ Valid | 001/200 ] loss = 4.1651, acc = 0.02435, best_acc = 0.000
+[ Train | 002/200 ] loss = 4.1544, best_acc = 0.029
+[ Valid | 002/200 ] loss = 4.1402, acc = 0.02009, best_acc = 0.024
+[ Train | 003/200 ] loss = 4.1382, best_acc = 0.036
+[ Valid | 003/200 ] loss = 4.1313, acc = 0.05743, best_acc = 0.024
+[ Train | 004/200 ] loss = 4.1107, best_acc = 0.059
+[ Valid | 004/200 ] loss = 4.0910, acc = 0.05986, best_acc = 0.057
+[ Train | 005/200 ] loss = 4.0169, best_acc = 0.085
+[ Valid | 005/200 ] loss = 4.0879, acc = 0.11303, best_acc = 0.060
+[ Train | 006/200 ] loss = 3.8520, best_acc = 0.104
+[ Valid | 006/200 ] loss = 3.9032, acc = 0.13494, best_acc = 0.113
+[ Train | 007/200 ] loss = 3.8469, best_acc = 0.097
+[ Valid | 007/200 ] loss = 3.7820, acc = 0.10410, best_acc = 0.135
+[ Train | 008/200 ] loss = 3.8113, best_acc = 0.101
+[ Valid | 008/200 ] loss = 3.8999, acc = 0.09131, best_acc = 0.135
+[ Train | 009/200 ] loss = 3.8349, best_acc = 0.092
+[ Valid | 009/200 ] loss = 3.8313, acc = 0.10248, best_acc = 0.135
+[ Train | 010/200 ] loss = 3.7870, best_acc = 0.107
+[ Valid | 010/200 ] loss = 3.8187, acc = 0.09558, best_acc = 0.135
+[ Train | 011/200 ] loss = 3.7468, best_acc = 0.108
+[ Valid | 011/200 ] loss = 3.6788, acc = 0.13088, best_acc = 0.135
+[ Train | 012/200 ] loss = 3.7087, best_acc = 0.126
+[ Valid | 012/200 ] loss = 3.7707, acc = 0.10450, best_acc = 0.135
+[ Train | 013/200 ] loss = 3.6368, best_acc = 0.141
+[ Valid | 013/200 ] loss = 3.6978, acc = 0.13738, best_acc = 0.135
+[ Train | 014/200 ] loss = 3.5905, best_acc = 0.142
+[ Valid | 014/200 ] loss = 3.6399, acc = 0.13373, best_acc = 0.137
+[ Train | 015/200 ] loss = 3.5326, best_acc = 0.147
+[ Valid | 015/200 ] loss = 3.6703, acc = 0.12439, best_acc = 0.137
+[ Train | 016/200 ] loss = 3.5070, best_acc = 0.145
+[ Valid | 016/200 ] loss = 3.6231, acc = 0.12236, best_acc = 0.137
+[ Train | 017/200 ] loss = 3.4908, best_acc = 0.159
+[ Valid | 017/200 ] loss = 3.5702, acc = 0.12886, best_acc = 0.137
+[ Train | 018/200 ] loss = 3.4274, best_acc = 0.176
+[ Valid | 018/200 ] loss = 3.5947, acc = 0.14225, best_acc = 0.137
+[ Train | 019/200 ] loss = 3.4103, best_acc = 0.174
+[ Valid | 019/200 ] loss = 3.4973, acc = 0.16680, best_acc = 0.142
+[ Train | 020/200 ] loss = 3.4237, best_acc = 0.171
+[ Valid | 020/200 ] loss = 3.4665, acc = 0.16234, best_acc = 0.167
+[ Train | 021/200 ] loss = 3.3826, best_acc = 0.182
+[ Valid | 021/200 ] loss = 3.4580, acc = 0.17147, best_acc = 0.167
+[ Train | 022/200 ] loss = 3.3581, best_acc = 0.190
+[ Valid | 022/200 ] loss = 3.5179, acc = 0.17959, best_acc = 0.171
+[ Train | 023/200 ] loss = 3.3242, best_acc = 0.200
+[ Valid | 023/200 ] loss = 3.5296, acc = 0.14915, best_acc = 0.180
+[ Train | 024/200 ] loss = 3.3372, best_acc = 0.196
+[ Valid | 024/200 ] loss = 3.4843, acc = 0.15158, best_acc = 0.180
+[ Train | 025/200 ] loss = 3.2891, best_acc = 0.209
+[ Valid | 025/200 ] loss = 3.4120, acc = 0.18628, best_acc = 0.180
+[ Train | 026/200 ] loss = 3.2648, best_acc = 0.213
+[ Valid | 026/200 ] loss = 3.4115, acc = 0.18182, best_acc = 0.186
+[ Train | 027/200 ] loss = 3.2218, best_acc = 0.219
+[ Valid | 027/200 ] loss = 3.4755, acc = 0.17593, best_acc = 0.186
+[ Train | 028/200 ] loss = 3.1989, best_acc = 0.231
+[ Valid | 028/200 ] loss = 3.4212, acc = 0.20860, best_acc = 0.186
+[ Train | 029/200 ] loss = 3.1909, best_acc = 0.234
+[ Valid | 029/200 ] loss = 3.4141, acc = 0.21327, best_acc = 0.209
+[ Train | 030/200 ] loss = 3.1848, best_acc = 0.234
+[ Valid | 030/200 ] loss = 3.4299, acc = 0.19156, best_acc = 0.213
+[ Train | 031/200 ] loss = 3.1275, best_acc = 0.248
+[ Valid | 031/200 ] loss = 3.3780, acc = 0.16477, best_acc = 0.213
+[ Train | 032/200 ] loss = 3.1251, best_acc = 0.249
+[ Valid | 032/200 ] loss = 3.3306, acc = 0.20698, best_acc = 0.213
+[ Train | 033/200 ] loss = 3.1362, best_acc = 0.246
+[ Valid | 033/200 ] loss = 3.3968, acc = 0.21084, best_acc = 0.213
+[ Train | 034/200 ] loss = 3.0853, best_acc = 0.255
+[ Valid | 034/200 ] loss = 3.3478, acc = 0.20901, best_acc = 0.213
+[ Train | 035/200 ] loss = 3.0760, best_acc = 0.261
+[ Valid | 035/200 ] loss = 3.3906, acc = 0.21084, best_acc = 0.213
+[ Train | 036/200 ] loss = 3.0319, best_acc = 0.273
+[ Valid | 036/200 ] loss = 3.2232, acc = 0.19562, best_acc = 0.213
+[ Train | 037/200 ] loss = 2.9776, best_acc = 0.294
+[ Valid | 037/200 ] loss = 3.2877, acc = 0.23539, best_acc = 0.213
+[ Train | 038/200 ] loss = 2.9759, best_acc = 0.290
+[ Valid | 038/200 ] loss = 3.2771, acc = 0.22261, best_acc = 0.235
+[ Train | 039/200 ] loss = 2.9762, best_acc = 0.287
+[ Valid | 039/200 ] loss = 3.2252, acc = 0.21976, best_acc = 0.235
+[ Train | 040/200 ] loss = 2.9314, best_acc = 0.306
+[ Valid | 040/200 ] loss = 3.2028, acc = 0.24188, best_acc = 0.235
+[ Train | 041/200 ] loss = 2.9284, best_acc = 0.305
+[ Valid | 041/200 ] loss = 3.2332, acc = 0.24229, best_acc = 0.242
+[ Train | 042/200 ] loss = 2.9244, best_acc = 0.310
+[ Valid | 042/200 ] loss = 3.2727, acc = 0.19359, best_acc = 0.242
+[ Train | 043/200 ] loss = 2.8911, best_acc = 0.321
+[ Valid | 043/200 ] loss = 3.2992, acc = 0.22281, best_acc = 0.242
+[ Train | 044/200 ] loss = 2.8690, best_acc = 0.316
+[ Valid | 044/200 ] loss = 3.2909, acc = 0.22017, best_acc = 0.242
+[ Train | 045/200 ] loss = 2.8608, best_acc = 0.316
+[ Valid | 045/200 ] loss = 3.1617, acc = 0.25731, best_acc = 0.242
+[ Train | 046/200 ] loss = 2.8330, best_acc = 0.333
+[ Valid | 046/200 ] loss = 3.2177, acc = 0.25101, best_acc = 0.257
+[ Train | 047/200 ] loss = 2.8513, best_acc = 0.328
+[ Valid | 047/200 ] loss = 3.2206, acc = 0.26644, best_acc = 0.257
+[ Train | 048/200 ] loss = 2.8149, best_acc = 0.341
+[ Valid | 048/200 ] loss = 3.1906, acc = 0.21794, best_acc = 0.266
+[ Train | 049/200 ] loss = 2.7874, best_acc = 0.346
+[ Valid | 049/200 ] loss = 3.1640, acc = 0.26583, best_acc = 0.266
+[ Train | 050/200 ] loss = 2.7788, best_acc = 0.344
+[ Valid | 050/200 ] loss = 3.1940, acc = 0.24269, best_acc = 0.266
+[ Train | 051/200 ] loss = 2.7805, best_acc = 0.345
+[ Valid | 051/200 ] loss = 3.1486, acc = 0.24371, best_acc = 0.266
+[ Train | 052/200 ] loss = 2.7575, best_acc = 0.351
+[ Valid | 052/200 ] loss = 3.1367, acc = 0.25771, best_acc = 0.266
+[ Train | 053/200 ] loss = 2.7152, best_acc = 0.370
+[ Valid | 053/200 ] loss = 3.1969, acc = 0.24432, best_acc = 0.266
+[ Train | 054/200 ] loss = 2.6822, best_acc = 0.374
+[ Valid | 054/200 ] loss = 3.1103, acc = 0.27800, best_acc = 0.266
+[ Train | 055/200 ] loss = 2.6941, best_acc = 0.377
+[ Valid | 055/200 ] loss = 3.1239, acc = 0.27090, best_acc = 0.278
+[ Train | 056/200 ] loss = 2.6595, best_acc = 0.378
+[ Valid | 056/200 ] loss = 3.1755, acc = 0.27942, best_acc = 0.278
+[ Train | 057/200 ] loss = 2.6513, best_acc = 0.384
+[ Valid | 057/200 ] loss = 3.2077, acc = 0.24006, best_acc = 0.279
+[ Train | 058/200 ] loss = 2.6358, best_acc = 0.393
+[ Valid | 058/200 ] loss = 3.1465, acc = 0.27334, best_acc = 0.279
+[ Train | 059/200 ] loss = 2.6157, best_acc = 0.393
+[ Valid | 059/200 ] loss = 3.1374, acc = 0.25101, best_acc = 0.279
+[ Train | 060/200 ] loss = 2.5925, best_acc = 0.411
+[ Valid | 060/200 ] loss = 3.1442, acc = 0.27983, best_acc = 0.279
+[ Train | 061/200 ] loss = 2.5894, best_acc = 0.410
+[ Valid | 061/200 ] loss = 3.2122, acc = 0.26258, best_acc = 0.280
+[ Train | 062/200 ] loss = 2.5990, best_acc = 0.399
+[ Valid | 062/200 ] loss = 3.1596, acc = 0.24472, best_acc = 0.280
+[ Train | 063/200 ] loss = 2.5793, best_acc = 0.399
+[ Valid | 063/200 ] loss = 3.1252, acc = 0.26907, best_acc = 0.280
+[ Train | 064/200 ] loss = 2.5663, best_acc = 0.410
+[ Valid | 064/200 ] loss = 3.1417, acc = 0.25284, best_acc = 0.280
+[ Train | 065/200 ] loss = 2.5383, best_acc = 0.422
+[ Valid | 065/200 ] loss = 3.1316, acc = 0.25771, best_acc = 0.280
+[ Train | 066/200 ] loss = 2.5426, best_acc = 0.421
+[ Valid | 066/200 ] loss = 3.1925, acc = 0.25588, best_acc = 0.280
+[ Train | 067/200 ] loss = 2.5000, best_acc = 0.440
+[ Valid | 067/200 ] loss = 3.1696, acc = 0.25386, best_acc = 0.280
+[ Train | 068/200 ] loss = 2.4933, best_acc = 0.437
+[ Valid | 068/200 ] loss = 3.1480, acc = 0.26907, best_acc = 0.280
+[ Train | 069/200 ] loss = 2.4818, best_acc = 0.441
+[ Valid | 069/200 ] loss = 3.1288, acc = 0.28876, best_acc = 0.280
+[ Train | 070/200 ] loss = 2.4602, best_acc = 0.455
+[ Valid | 070/200 ] loss = 3.1138, acc = 0.27983, best_acc = 0.289
+[ Train | 071/200 ] loss = 2.4614, best_acc = 0.446
+[ Valid | 071/200 ] loss = 3.1077, acc = 0.28409, best_acc = 0.289
+[ Train | 072/200 ] loss = 2.4349, best_acc = 0.460
+[ Valid | 072/200 ] loss = 3.1477, acc = 0.27110, best_acc = 0.289
+[ Train | 073/200 ] loss = 2.4156, best_acc = 0.458
+[ Valid | 073/200 ] loss = 3.0791, acc = 0.29708, best_acc = 0.289
+[ Train | 074/200 ] loss = 2.4244, best_acc = 0.460
+[ Valid | 074/200 ] loss = 3.0941, acc = 0.27354, best_acc = 0.297
+[ Train | 075/200 ] loss = 2.4086, best_acc = 0.462
+[ Valid | 075/200 ] loss = 3.1597, acc = 0.25365, best_acc = 0.297
+[ Train | 076/200 ] loss = 2.3977, best_acc = 0.472
+[ Valid | 076/200 ] loss = 3.0691, acc = 0.28632, best_acc = 0.297
+[ Train | 077/200 ] loss = 2.3794, best_acc = 0.467
+[ Valid | 077/200 ] loss = 3.0955, acc = 0.27780, best_acc = 0.297
+[ Train | 078/200 ] loss = 2.3792, best_acc = 0.476
+[ Valid | 078/200 ] loss = 3.1903, acc = 0.27760, best_acc = 0.297
+[ Train | 079/200 ] loss = 2.3601, best_acc = 0.486
+[ Valid | 079/200 ] loss = 3.1573, acc = 0.27760, best_acc = 0.297
+[ Train | 080/200 ] loss = 2.3503, best_acc = 0.492
+[ Valid | 080/200 ] loss = 3.1313, acc = 0.27537, best_acc = 0.297
+[ Train | 081/200 ] loss = 2.3360, best_acc = 0.482
+[ Valid | 081/200 ] loss = 3.0564, acc = 0.31737, best_acc = 0.297
+[ Train | 082/200 ] loss = 2.3106, best_acc = 0.506
+[ Valid | 082/200 ] loss = 3.1024, acc = 0.28409, best_acc = 0.317
+[ Train | 083/200 ] loss = 2.3171, best_acc = 0.496
+[ Valid | 083/200 ] loss = 3.1227, acc = 0.29769, best_acc = 0.317
+[ Train | 084/200 ] loss = 2.3050, best_acc = 0.508
+[ Valid | 084/200 ] loss = 3.1568, acc = 0.28653, best_acc = 0.317
+[ Train | 085/200 ] loss = 2.2966, best_acc = 0.508
+[ Valid | 085/200 ] loss = 3.1276, acc = 0.26461, best_acc = 0.317
+[ Train | 086/200 ] loss = 2.2769, best_acc = 0.515
+[ Valid | 086/200 ] loss = 3.1128, acc = 0.29160, best_acc = 0.317
+[ Train | 087/200 ] loss = 2.2719, best_acc = 0.508
+[ Valid | 087/200 ] loss = 3.0877, acc = 0.28470, best_acc = 0.317
+[ Train | 088/200 ] loss = 2.2404, best_acc = 0.531
+[ Valid | 088/200 ] loss = 3.0844, acc = 0.27557, best_acc = 0.317
+[ Train | 089/200 ] loss = 2.2349, best_acc = 0.522
+[ Valid | 089/200 ] loss = 3.1016, acc = 0.29769, best_acc = 0.317
+[ Train | 090/200 ] loss = 2.2271, best_acc = 0.540
+[ Valid | 090/200 ] loss = 3.0930, acc = 0.28247, best_acc = 0.317
+[ Train | 091/200 ] loss = 2.2252, best_acc = 0.532
+[ Valid | 091/200 ] loss = 3.1327, acc = 0.29343, best_acc = 0.317
+[ Train | 092/200 ] loss = 2.2133, best_acc = 0.528
+[ Valid | 092/200 ] loss = 3.0324, acc = 0.30012, best_acc = 0.317
+[ Train | 093/200 ] loss = 2.2044, best_acc = 0.542
+[ Valid | 093/200 ] loss = 3.1489, acc = 0.27374, best_acc = 0.317
+[ Train | 094/200 ] loss = 2.1665, best_acc = 0.559
+[ Valid | 094/200 ] loss = 3.0642, acc = 0.29748, best_acc = 0.317
+[ Train | 095/200 ] loss = 2.1706, best_acc = 0.556
+[ Valid | 095/200 ] loss = 3.0731, acc = 0.29302, best_acc = 0.317
+[ Train | 096/200 ] loss = 2.1695, best_acc = 0.555
+[ Valid | 096/200 ] loss = 3.0788, acc = 0.30235, best_acc = 0.317
+[ Train | 097/200 ] loss = 2.1632, best_acc = 0.552
+[ Valid | 097/200 ] loss = 3.0779, acc = 0.29119, best_acc = 0.317
+[ Train | 098/200 ] loss = 2.1515, best_acc = 0.564
+[ Valid | 098/200 ] loss = 3.0360, acc = 0.31676, best_acc = 0.317
+[ Train | 099/200 ] loss = 2.1367, best_acc = 0.566
+[ Valid | 099/200 ] loss = 3.0580, acc = 0.27983, best_acc = 0.317
+[ Train | 100/200 ] loss = 2.1363, best_acc = 0.572
+[ Valid | 100/200 ] loss = 3.0540, acc = 0.28896, best_acc = 0.317
+[ Train | 101/200 ] loss = 2.1202, best_acc = 0.569
+[ Valid | 101/200 ] loss = 3.0491, acc = 0.30215, best_acc = 0.317
+[ Train | 102/200 ] loss = 2.1182, best_acc = 0.576
+[ Valid | 102/200 ] loss = 3.0412, acc = 0.29789, best_acc = 0.317
+[ Train | 103/200 ] loss = 2.1070, best_acc = 0.582
+[ Valid | 103/200 ] loss = 3.1319, acc = 0.28470, best_acc = 0.317
+[ Train | 104/200 ] loss = 2.1025, best_acc = 0.585
+[ Valid | 104/200 ] loss = 3.0817, acc = 0.28429, best_acc = 0.317
+[ Train | 105/200 ] loss = 2.0870, best_acc = 0.581
+[ Valid | 105/200 ] loss = 3.0836, acc = 0.30195, best_acc = 0.317
+[ Train | 106/200 ] loss = 2.0731, best_acc = 0.592
+[ Valid | 106/200 ] loss = 3.0414, acc = 0.28653, best_acc = 0.317
+[ Train | 107/200 ] loss = 2.0741, best_acc = 0.591
+[ Valid | 107/200 ] loss = 3.0351, acc = 0.30621, best_acc = 0.317
+[ Train | 108/200 ] loss = 2.0621, best_acc = 0.601
+[ Valid | 108/200 ] loss = 3.0975, acc = 0.28247, best_acc = 0.317
+[ Train | 109/200 ] loss = 2.0633, best_acc = 0.589
+[ Valid | 109/200 ] loss = 3.0887, acc = 0.28916, best_acc = 0.317
+[ Train | 110/200 ] loss = 2.0528, best_acc = 0.605
+[ Valid | 110/200 ] loss = 3.1055, acc = 0.27334, best_acc = 0.317
+[ Train | 111/200 ] loss = 2.0360, best_acc = 0.611
+[ Valid | 111/200 ] loss = 3.0958, acc = 0.28064, best_acc = 0.317
+[ Train | 112/200 ] loss = 2.0337, best_acc = 0.616
+[ Valid | 112/200 ] loss = 3.0586, acc = 0.28937, best_acc = 0.317
+[ Train | 113/200 ] loss = 2.0295, best_acc = 0.605
+[ Valid | 113/200 ] loss = 3.0387, acc = 0.30621, best_acc = 0.317
+[ Train | 114/200 ] loss = 2.0154, best_acc = 0.623
+[ Valid | 114/200 ] loss = 3.0046, acc = 0.31940, best_acc = 0.317
+[ Train | 115/200 ] loss = 2.0231, best_acc = 0.608
+[ Valid | 115/200 ] loss = 3.0040, acc = 0.31067, best_acc = 0.319
+[ Train | 116/200 ] loss = 2.0190, best_acc = 0.607
+[ Valid | 116/200 ] loss = 3.0215, acc = 0.31920, best_acc = 0.319
+[ Train | 117/200 ] loss = 2.0037, best_acc = 0.626
+[ Valid | 117/200 ] loss = 3.0411, acc = 0.29079, best_acc = 0.319
+[ Train | 118/200 ] loss = 1.9946, best_acc = 0.629
+[ Valid | 118/200 ] loss = 3.1805, acc = 0.30682, best_acc = 0.319
+[ Train | 119/200 ] loss = 2.0012, best_acc = 0.618
+[ Valid | 119/200 ] loss = 3.0617, acc = 0.27780, best_acc = 0.319
+[ Train | 120/200 ] loss = 1.9905, best_acc = 0.625
+[ Valid | 120/200 ] loss = 3.0063, acc = 0.31676, best_acc = 0.319
+[ Train | 121/200 ] loss = 1.9728, best_acc = 0.640
+[ Valid | 121/200 ] loss = 3.1003, acc = 0.28044, best_acc = 0.319
+[ Train | 122/200 ] loss = 1.9667, best_acc = 0.634
+[ Valid | 122/200 ] loss = 3.1300, acc = 0.28450, best_acc = 0.319
+[ Train | 123/200 ] loss = 1.9739, best_acc = 0.637
+[ Valid | 123/200 ] loss = 3.0684, acc = 0.30662, best_acc = 0.319
+[ Train | 124/200 ] loss = 1.9517, best_acc = 0.641
+[ Valid | 124/200 ] loss = 3.1069, acc = 0.28693, best_acc = 0.319
+[ Train | 125/200 ] loss = 1.9572, best_acc = 0.631
+[ Valid | 125/200 ] loss = 3.0898, acc = 0.29830, best_acc = 0.319
+[ Train | 126/200 ] loss = 1.9541, best_acc = 0.637
+[ Valid | 126/200 ] loss = 3.0991, acc = 0.28429, best_acc = 0.319
+[ Train | 127/200 ] loss = 1.9452, best_acc = 0.642
+[ Valid | 127/200 ] loss = 3.0968, acc = 0.28044, best_acc = 0.319
+[ Train | 128/200 ] loss = 1.9281, best_acc = 0.661
+[ Valid | 128/200 ] loss = 3.0443, acc = 0.31311, best_acc = 0.319
+[ Train | 129/200 ] loss = 1.9386, best_acc = 0.645
+[ Valid | 129/200 ] loss = 3.0320, acc = 0.30398, best_acc = 0.319
+[ Train | 130/200 ] loss = 1.9278, best_acc = 0.652
+[ Valid | 130/200 ] loss = 3.0974, acc = 0.30662, best_acc = 0.319
+[ Train | 131/200 ] loss = 1.9199, best_acc = 0.657
+[ Valid | 131/200 ] loss = 3.0392, acc = 0.30824, best_acc = 0.319
+[ Train | 132/200 ] loss = 1.9223, best_acc = 0.659
+[ Valid | 132/200 ] loss = 3.1140, acc = 0.27192, best_acc = 0.319
+[ Train | 133/200 ] loss = 1.9192, best_acc = 0.656
+[ Valid | 133/200 ] loss = 3.1035, acc = 0.29180, best_acc = 0.319
+[ Train | 134/200 ] loss = 1.9103, best_acc = 0.657
+[ Valid | 134/200 ] loss = 3.0577, acc = 0.28693, best_acc = 0.319
+[ Train | 135/200 ] loss = 1.9057, best_acc = 0.661
+[ Valid | 135/200 ] loss = 3.0333, acc = 0.29505, best_acc = 0.319
+[ Train | 136/200 ] loss = 1.9021, best_acc = 0.667
+[ Valid | 136/200 ] loss = 3.0845, acc = 0.29099, best_acc = 0.319
+[ Train | 137/200 ] loss = 1.9085, best_acc = 0.658
+[ Valid | 137/200 ] loss = 3.0497, acc = 0.31270, best_acc = 0.319
+[ Train | 138/200 ] loss = 1.8867, best_acc = 0.664
+[ Valid | 138/200 ] loss = 3.0594, acc = 0.30195, best_acc = 0.319
+[ Train | 139/200 ] loss = 1.8814, best_acc = 0.680
+[ Valid | 139/200 ] loss = 3.0570, acc = 0.27374, best_acc = 0.319
+[ Train | 140/200 ] loss = 1.8774, best_acc = 0.681
+[ Valid | 140/200 ] loss = 3.0786, acc = 0.30621, best_acc = 0.319
+[ Train | 141/200 ] loss = 1.8762, best_acc = 0.675
+[ Valid | 141/200 ] loss = 3.0975, acc = 0.30256, best_acc = 0.319
+[ Train | 142/200 ] loss = 1.8685, best_acc = 0.680
+[ Valid | 142/200 ] loss = 3.0511, acc = 0.29322, best_acc = 0.319
+[ Train | 143/200 ] loss = 1.8724, best_acc = 0.674
+[ Valid | 143/200 ] loss = 3.0621, acc = 0.30438, best_acc = 0.319
+[ Train | 144/200 ] loss = 1.8808, best_acc = 0.674
+[ Valid | 144/200 ] loss = 3.0430, acc = 0.30235, best_acc = 0.319
+[ Train | 145/200 ] loss = 1.8633, best_acc = 0.674
+[ Valid | 145/200 ] loss = 3.0369, acc = 0.31027, best_acc = 0.319
+[ Train | 146/200 ] loss = 1.8510, best_acc = 0.684
+[ Valid | 146/200 ] loss = 3.0311, acc = 0.30377, best_acc = 0.319
+[ Train | 147/200 ] loss = 1.8595, best_acc = 0.682
+[ Valid | 147/200 ] loss = 3.0707, acc = 0.29992, best_acc = 0.319
+[ Train | 148/200 ] loss = 1.8517, best_acc = 0.680
+[ Valid | 148/200 ] loss = 3.0578, acc = 0.31088, best_acc = 0.319

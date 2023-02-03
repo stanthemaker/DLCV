@@ -1,0 +1,183 @@
+[ Pretrain | 001/500 ] loss = 1.6922
+[ Pretrain | 001/500 ] loss = 1.0565
+[ Pretrain | 002/500 ] loss = 0.6460
+[ Pretrain | 003/500 ] loss = 0.2056
+[ Pretrain | 004/500 ] loss = 0.4906
+[ Train | 001/200 ] loss = 4.1860, best_acc = 0.018
+[ Valid | 001/200 ] loss = 4.1682, best_acc = 0.020
+[ Train | 002/200 ] loss = 4.1546, best_acc = 0.027
+[ Valid | 002/200 ] loss = 4.1490, best_acc = 0.022
+[ Pretrain | 005/500 ] loss = 0.1688
+[ Train | 003/200 ] loss = 4.1265, best_acc = 0.030
+[ Valid | 003/200 ] loss = 4.1110, best_acc = 0.038
+[ Train | 004/200 ] loss = 4.1269, best_acc = 0.027
+[ Valid | 004/200 ] loss = 4.1209, best_acc = 0.022
+[ Train | 005/200 ] loss = 4.1475, best_acc = 0.023
+[ Valid | 005/200 ] loss = 4.1439, best_acc = 0.025
+[ Train | 006/200 ] loss = 4.1447, best_acc = 0.024
+[ Valid | 006/200 ] loss = 4.1457, best_acc = 0.020
+[ Train | 007/200 ] loss = 4.1422, best_acc = 0.025
+[ Valid | 007/200 ] loss = 4.1731, best_acc = 0.022
+[ Pretrain | 006/500 ] loss = 0.3744
+[ Train | 008/200 ] loss = 4.1660, best_acc = 0.024
+[ Valid | 008/200 ] loss = 4.2332, best_acc = 0.033
+[ Train | 009/200 ] loss = 4.1576, best_acc = 0.032
+[ Valid | 009/200 ] loss = 4.1589, best_acc = 0.031
+[ Train | 010/200 ] loss = 4.1455, best_acc = 0.028
+[ Valid | 010/200 ] loss = 4.1508, best_acc = 0.020
+[ Train | 011/200 ] loss = 4.1533, best_acc = 0.024
+[ Valid | 011/200 ] loss = 4.1564, best_acc = 0.020
+[ Train | 012/200 ] loss = 4.1568, best_acc = 0.023
+[ Valid | 012/200 ] loss = 4.1575, best_acc = 0.024
+[ Pretrain | 007/500 ] loss = 0.2976
+[ Train | 013/200 ] loss = 4.1556, best_acc = 0.022
+[ Valid | 013/200 ] loss = 4.1518, best_acc = 0.020
+[ Train | 014/200 ] loss = 4.1547, best_acc = 0.022
+[ Valid | 014/200 ] loss = 4.1525, best_acc = 0.022
+[ Train | 015/200 ] loss = 4.1465, best_acc = 0.015
+[ Valid | 015/200 ] loss = 4.1466, best_acc = 0.024
+[ Train | 016/200 ] loss = 4.1670, best_acc = 0.020
+[ Valid | 016/200 ] loss = 4.1219, best_acc = 0.031
+[ Train | 017/200 ] loss = 4.1558, best_acc = 0.018
+[ Valid | 017/200 ] loss = 4.1441, best_acc = 0.029
+[ Pretrain | 008/500 ] loss = 0.5328
+[ Train | 018/200 ] loss = 4.1413, best_acc = 0.024
+[ Valid | 018/200 ] loss = 4.1578, best_acc = 0.022
+[ Train | 019/200 ] loss = 4.1495, best_acc = 0.021
+[ Valid | 019/200 ] loss = 4.1461, best_acc = 0.029
+[ Train | 020/200 ] loss = 4.1563, best_acc = 0.023
+[ Valid | 020/200 ] loss = 4.1547, best_acc = 0.020
+[ Train | 021/200 ] loss = 4.1556, best_acc = 0.023
+[ Valid | 021/200 ] loss = 4.1563, best_acc = 0.024
+[ Train | 022/200 ] loss = 4.1544, best_acc = 0.023
+[ Valid | 022/200 ] loss = 4.1535, best_acc = 0.020
+[ Train | 023/200 ] loss = 4.1539, best_acc = 0.021
+[ Pretrain | 009/500 ] loss = 0.1913
+[ Valid | 023/200 ] loss = 4.1584, best_acc = 0.018
+[ Train | 024/200 ] loss = 4.1539, best_acc = 0.019
+[ Valid | 024/200 ] loss = 4.1501, best_acc = 0.022
+[ Train | 025/200 ] loss = 4.1537, best_acc = 0.019
+[ Valid | 025/200 ] loss = 4.1536, best_acc = 0.018
+[ Train | 026/200 ] loss = 4.1522, best_acc = 0.023
+[ Valid | 026/200 ] loss = 4.1495, best_acc = 0.031
+[ Train | 027/200 ] loss = 4.1482, best_acc = 0.026
+[ Valid | 027/200 ] loss = 4.1428, best_acc = 0.033
+[ Train | 028/200 ] loss = 4.1385, best_acc = 0.029
+[ Valid | 028/200 ] loss = 4.1259, best_acc = 0.033
+[ Pretrain | 010/500 ] loss = 0.8808
+[ Train | 029/200 ] loss = 4.1211, best_acc = 0.034
+[ Valid | 029/200 ] loss = 4.1070, best_acc = 0.036
+[ Train | 030/200 ] loss = 4.1573, best_acc = 0.031
+[ Valid | 030/200 ] loss = 4.1150, best_acc = 0.033
+[ Train | 031/200 ] loss = 4.1548, best_acc = 0.024
+[ Valid | 031/200 ] loss = 4.1709, best_acc = 0.020
+[ Train | 032/200 ] loss = 4.1569, best_acc = 0.023
+[ Valid | 032/200 ] loss = 4.1496, best_acc = 0.020
+[ Train | 033/200 ] loss = 4.1420, best_acc = 0.031
+[ Valid | 033/200 ] loss = 4.1806, best_acc = 0.033
+[ Pretrain | 011/500 ] loss = 0.7772
+[ Train | 034/200 ] loss = 4.1472, best_acc = 0.025
+[ Valid | 034/200 ] loss = 4.1530, best_acc = 0.029
+[ Train | 035/200 ] loss = 4.1585, best_acc = 0.022
+[ Valid | 035/200 ] loss = 4.1569, best_acc = 0.029
+[ Train | 036/200 ] loss = 4.1583, best_acc = 0.022
+[ Valid | 036/200 ] loss = 4.1602, best_acc = 0.020
+[ Train | 037/200 ] loss = 4.1556, best_acc = 0.023
+[ Valid | 037/200 ] loss = 4.1523, best_acc = 0.020
+[ Train | 038/200 ] loss = 4.1547, best_acc = 0.017
+[ Valid | 038/200 ] loss = 4.1506, best_acc = 0.016
+[ Pretrain | 012/500 ] loss = 0.2859
+[ Train | 039/200 ] loss = 4.1553, best_acc = 0.018
+[ Valid | 039/200 ] loss = 4.1528, best_acc = 0.020
+[ Train | 040/200 ] loss = 4.1552, best_acc = 0.018
+[ Valid | 040/200 ] loss = 4.1481, best_acc = 0.024
+[ Train | 041/200 ] loss = 4.1542, best_acc = 0.016
+[ Valid | 041/200 ] loss = 4.1552, best_acc = 0.018
+[ Train | 042/200 ] loss = 4.1514, best_acc = 0.022
+[ Valid | 042/200 ] loss = 4.1468, best_acc = 0.020
+[ Train | 043/200 ] loss = 4.1446, best_acc = 0.023
+[ Valid | 043/200 ] loss = 4.1328, best_acc = 0.033
+[ Pretrain | 013/500 ] loss = 0.2958
+[ Train | 044/200 ] loss = 4.1433, best_acc = 0.026
+[ Valid | 044/200 ] loss = 4.1429, best_acc = 0.022
+[ Train | 045/200 ] loss = 4.1559, best_acc = 0.023
+[ Valid | 045/200 ] loss = 4.1555, best_acc = 0.020
+[ Train | 046/200 ] loss = 4.1587, best_acc = 0.022
+[ Valid | 046/200 ] loss = 4.1524, best_acc = 0.020
+[ Train | 047/200 ] loss = 4.1567, best_acc = 0.023
+[ Valid | 047/200 ] loss = 4.1490, best_acc = 0.024
+[ Train | 048/200 ] loss = 4.1548, best_acc = 0.023
+[ Valid | 048/200 ] loss = 4.1517, best_acc = 0.024
+[ Train | 049/200 ] loss = 4.1527, best_acc = 0.023
+[ Pretrain | 014/500 ] loss = 0.6130
+[ Valid | 049/200 ] loss = 4.1511, best_acc = 0.020
+[ Train | 050/200 ] loss = 4.1533, best_acc = 0.020
+[ Valid | 050/200 ] loss = 4.1478, best_acc = 0.031
+[ Train | 051/200 ] loss = 4.1546, best_acc = 0.018
+[ Valid | 051/200 ] loss = 4.1535, best_acc = 0.018
+[ Train | 052/200 ] loss = 4.1557, best_acc = 0.019
+[ Valid | 052/200 ] loss = 4.1589, best_acc = 0.022
+[ Train | 053/200 ] loss = 4.1578, best_acc = 0.019
+[ Valid | 053/200 ] loss = 4.1569, best_acc = 0.022
+[ Train | 054/200 ] loss = 4.1571, best_acc = 0.019
+[ Valid | 054/200 ] loss = 4.1528, best_acc = 0.022
+[ Pretrain | 015/500 ] loss = 0.8083
+[ Pretrain | 016/500 ] loss = 0.3623
+[ Pretrain | 017/500 ] loss = 0.4912
+[ Pretrain | 018/500 ] loss = 0.3073
+[ Pretrain | 019/500 ] loss = 0.3640
+[ Pretrain | 020/500 ] loss = 1.0322
+[ Pretrain | 021/500 ] loss = 0.5274
+[ Pretrain | 022/500 ] loss = 0.2854
+[ Pretrain | 023/500 ] loss = 0.1790
+[ Pretrain | 024/500 ] loss = 0.2394
+[ Pretrain | 025/500 ] loss = 1.0855
+[ Pretrain | 026/500 ] loss = 0.5342
+[ Pretrain | 027/500 ] loss = 0.3848
+[ Pretrain | 028/500 ] loss = 0.5232
+[ Pretrain | 029/500 ] loss = 0.9310
+[ Pretrain | 030/500 ] loss = 0.3145
+[ Pretrain | 031/500 ] loss = 0.8848
+[ Pretrain | 032/500 ] loss = 0.2393
+[ Pretrain | 033/500 ] loss = 0.2453
+[ Pretrain | 034/500 ] loss = 0.9268
+[ Pretrain | 035/500 ] loss = 0.6509
+[ Pretrain | 036/500 ] loss = 0.3652
+[ Pretrain | 037/500 ] loss = 0.4964
+[ Pretrain | 038/500 ] loss = 0.3409
+[ Pretrain | 039/500 ] loss = 0.8084
+[ Pretrain | 040/500 ] loss = 0.2483
+[ Pretrain | 041/500 ] loss = 1.1553
+[ Pretrain | 042/500 ] loss = 1.1810
+[ Pretrain | 043/500 ] loss = 0.6718
+[ Pretrain | 044/500 ] loss = 0.4138
+[ Pretrain | 045/500 ] loss = 0.8585
+[ Pretrain | 046/500 ] loss = 0.3214
+[ Pretrain | 047/500 ] loss = 0.8727
+[ Pretrain | 048/500 ] loss = 0.8504
+[ Pretrain | 049/500 ] loss = 0.1235
+[ Pretrain | 050/500 ] loss = 0.2235
+[ Pretrain | 051/500 ] loss = 0.3237
+[ Pretrain | 052/500 ] loss = 0.2507
+[ Pretrain | 053/500 ] loss = 0.2769
+[ Pretrain | 054/500 ] loss = 0.2327
+[ Pretrain | 055/500 ] loss = 0.4900
+[ Pretrain | 056/500 ] loss = 0.3657
+[ Pretrain | 057/500 ] loss = 0.2650
+[ Pretrain | 058/500 ] loss = 0.2971
+[ Pretrain | 059/500 ] loss = 0.1813
+[ Pretrain | 060/500 ] loss = 0.3052
+[ Pretrain | 061/500 ] loss = 0.7497
+[ Pretrain | 062/500 ] loss = 0.9691
+[ Pretrain | 063/500 ] loss = 0.3815
+[ Pretrain | 064/500 ] loss = 0.5087
+[ Pretrain | 065/500 ] loss = 0.8401
+[ Pretrain | 066/500 ] loss = 0.6139
+[ Pretrain | 067/500 ] loss = 0.2792
+[ Pretrain | 068/500 ] loss = 0.3605
+[ Pretrain | 069/500 ] loss = 0.3084
+[ Pretrain | 070/500 ] loss = 0.3540
+[ Pretrain | 071/500 ] loss = 0.2904
+[ Pretrain | 072/500 ] loss = 1.4253
+[ Pretrain | 073/500 ] loss = 0.1929
+[ Pretrain | 074/500 ] loss = 0.1481

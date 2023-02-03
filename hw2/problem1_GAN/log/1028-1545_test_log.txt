@@ -1,0 +1,3 @@
+[ 001/250 ] {'Wasserstein distance': tensor(411.1413, device='cuda:3'), 'Loss D': 215.56793450475035, 'Loss G': 119.23465190575368, 'Loss D Real': 97.08003912783349, 'Loss D Fake': -118.48789605534205}
+[ 002/250 ] {'Wasserstein distance': tensor(785.1610, device='cuda:3'), 'Loss D': 406.1836805088056, 'Loss G': 222.79444936799052, 'Loss D Real': 184.0777620265819, 'Loss D Fake': -222.105918137072}
+[ 003/250 ] {'Wasserstein distance': tensor(1119.0990, device='cuda:3'), 'Loss D': 587.0146945833682, 'Loss G': 286.0354617694156, 'Loss D Real': 268.8436769289676, 'Loss D Fake': -318.1710182353978}

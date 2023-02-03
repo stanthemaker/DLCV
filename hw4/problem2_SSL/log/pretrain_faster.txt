@@ -1,0 +1,8 @@
+[ Pretrain | 001/500 ] loss = 0.7809
+[ Pretrain | 002/500 ] loss = 1.1113
+[ Pretrain | 003/500 ] loss = 0.3410
+[ Pretrain | 004/500 ] loss = 0.7203
+[ Pretrain | 005/500 ] loss = 0.2419
+[ Pretrain | 006/500 ] loss = 0.3218
+[ Pretrain | 007/500 ] loss = 0.7655
+[ Pretrain | 008/500 ] loss = 0.4813

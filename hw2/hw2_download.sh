@@ -1,0 +1,5 @@
+wget -O ./svhn.ckpt 'https://www.dropbox.com/s/oroyrd58jw82h1x/svhn_f_model_31.ckpt?dl=1'
+wget -O ./usps.ckpt 'https://www.dropbox.com/s/2hg2g6y810vhoen/usps_f_model_best.ckpt?dl=1'
+wget -O ./pa2.pt 'https://www.dropbox.com/s/u0tuk1f7r5jyicb/2130_checkpoint.pt?dl=1'
+wget -O ./model_ML.pth 'https://www.dropbox.com/s/ip7hmf2a2o7xqlc/1022-0021_dc_weighinit.pth?dl=1'
+wget -O ./model_paper.pth 'https://www.dropbox.com/s/7w2oc61o85qe0ma/1020-1706_DCgan_86_27.pth?dl=1'

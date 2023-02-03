@@ -1,0 +1,6 @@
+epoch: 001, accuracy of the svhn dataset: 0.48055
+epoch: 001, accuracy of the usps dataset: 0.83073
+epoch: 001, accuracy of the svhn dataset: 0.48055
+epoch: 001, accuracy of the svhn dataset: 0.66948
+epoch: 001, accuracy of the usps dataset: 0.83073
+epoch: 001, accuracy of the usps dataset: 0.93035
