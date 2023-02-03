@@ -1,0 +1,9 @@
+*.jpg
+*.png
+*.pth
+*.ckpt
+*.pt
+*.json
+*.pyc
+*.tar
+*.mp4
