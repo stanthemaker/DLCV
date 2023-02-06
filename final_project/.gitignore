@@ -1,0 +1,22 @@
+data/
+__pycache__
+*.sh
+/preprocess/qsub_log
+/preprocess/log
+*.png
+*.wav
+/qsub_log
+/evalai_test/output/log/
+*.pth
+# Ignore the dataset folder
+# IMPORTANT: make sure that your dataset is stored in a
+# folder with the same name as the one specified below!
+./extracted_audio/
+./extracted_frames/
+student_data/*
+sample_submission.csv
+extracted_frames
+extracted_audio
+*.zip
+
+*.csv
