@@ -1,0 +1,9 @@
+.cache
+.local
+.config
+.viminfo
+*.pyc
+.bash_logout
+.bashrc
+.bash_history
+.profile
